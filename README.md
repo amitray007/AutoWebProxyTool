@@ -9,5 +9,10 @@ A web proxy allows you to browse the web anonymously and unblock your favorite w
 5. Supports most modern web standards
 6. No download limit
 
+# Note
+1. You need chromedriver with the suitable Google Chrome Browser version.
+   Download chromedriver from https://chromedriver.chromium.org/downloads .
+2. Install all the requirements by using the command 'pip -r install requirements.txt' from command prompt.
+
 # Author
 Created By : GitHub | amitray007
