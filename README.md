@@ -1,3 +1,5 @@
+[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
+
 # AutoWebProxyTool
 A web proxy allows you to browse the web anonymously and unblock your favorite websites without installing any software like a VPN. Our web proxy is free and supports the most popular websites, such as youtube, google, Facebook, Twitter, and adult entertainment websites. All your traffic is encrypted while browsing to make sure you stay anonymous.
 
